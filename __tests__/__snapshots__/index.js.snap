@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input basic 1`] = `
+<div>
+  <span
+    class="ant-input-affix-wrapper"
+  >
+    <input
+      class="ant-input"
+      type="text"
+      value=""
+    />
+    <span
+      class="ant-input-suffix"
+    />
+  </span>
+</div>
+`;
