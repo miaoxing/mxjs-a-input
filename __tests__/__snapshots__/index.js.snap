@@ -16,3 +16,51 @@ exports[`Input basic 1`] = `
   </span>
 </div>
 `;
+
+exports[`Input showCount with value 1`] = `
+<div>
+  <span
+    class="ant-input-affix-wrapper"
+  >
+    <input
+      class="ant-input"
+      maxlength="10"
+      type="text"
+      value="abc"
+    />
+    <span
+      class="ant-input-suffix"
+    >
+      <span
+        class="ant-input-show-count"
+      >
+        3 / 10
+      </span>
+    </span>
+  </span>
+</div>
+`;
+
+exports[`Input showCount without value 1`] = `
+<div>
+  <span
+    class="ant-input-affix-wrapper"
+  >
+    <input
+      class="ant-input"
+      maxlength="10"
+      type="text"
+      value=""
+    />
+    <span
+      class="ant-input-suffix"
+    >
+      <span
+        class="ant-input-show-count"
+      >
+        0 / 10
+      </span>
+    </span>
+  </span>
+</div>
+`;
