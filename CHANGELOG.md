@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-a-input/compare/v0.1.3...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([f7b086a](https://github.com/miaoxing/mxjs-a-input/commit/f7b086a8339aeadc5f5c6bb4f89749908e18c2ec))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-a-input/compare/v0.1.2...v0.1.3) (2022-06-01)
 
 
