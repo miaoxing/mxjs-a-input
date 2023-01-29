@@ -1,0 +1,6 @@
+.ant-form-item .ant-input-textarea-show-count::after {
+  position: relative;
+  top: -27px;
+  right: 12px;
+  background: #fff;
+}
