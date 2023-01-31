@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.0.2...v1.1.0) (2023-01-31)
+
+
+### Bug Fixes
+
+* **a-input:** `Textarea` 指定 `maxLength` 属性时，才自动显示字数 ([93b27f4](https://github.com/miaoxing/mxjs-a-input/commit/93b27f46079270d89b94dfc714f6e1ff27664c41))
+
+
+### Features
+
+* **a-input:** `antd` `4.18` 显示字数改用默认的 `showCount` 属性 ([b698350](https://github.com/miaoxing/mxjs-a-input/commit/b6983503bb00d4f9c04b2986d407ea1e787c9475))
+* 更新 `antd` 到 `~4.24.7` ([0709933](https://github.com/miaoxing/mxjs-a-input/commit/0709933e44d629afed04274c3d9912ca2ea49bb2))
+
 ## [1.0.2](https://github.com/miaoxing/mxjs-a-input/compare/v1.0.1...v1.0.2) (2023-01-01)
 
 
