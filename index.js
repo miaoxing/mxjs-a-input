@@ -21,9 +21,10 @@ Input.propTypes = {
   trim: PropTypes.bool,
 };
 
-Input.TextArea = ({showCount = true, trim = true, ...props}) => {
+Input.TextArea = ({maxLength = null, trim = true, ...props}) => {
   return <BaseInput.TextArea
-    showCount={showCount}
+    maxLength={maxLength}
+    showCount={!!maxLength}
     onBlur={handleBlur.bind(this, trim, props)}
     {...props}
   />;
