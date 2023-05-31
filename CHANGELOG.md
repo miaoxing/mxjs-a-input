@@ -1,3 +1,23 @@
+# [1.2.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.1.0...v1.2.0) (2023-05-31)
+
+
+### Bug Fixes
+
+* **a-input, antd5:** `Textarea` 显示字数时，底部多出空行 ([9cf4b6e](https://github.com/miaoxing/mxjs-a-input/commit/9cf4b6e7ba863865c3537a0dbf67ed1890d62026))
+
+
+### Features
+
+* **antd5:** 更新 `antd` 到 `5.1.6` ([be04b35](https://github.com/miaoxing/mxjs-a-input/commit/be04b35cbae71ade1bf623bbdf515093308329e2))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.2.0` to `8.2.1`
+
 # [1.1.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.0.2...v1.1.0) (2023-01-31)
 
 
