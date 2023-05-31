@@ -1,20 +1,27 @@
 import Input from '../';
 import {fireEvent, render} from '@testing-library/react';
+import {ConfigProvider} from 'antd';
 
 describe('Input', () => {
   test('basic', () => {
-    const result = render(<Input/>);
+    const result = render(<ConfigProvider theme={{hashed: false}}>
+      <Input/>
+    </ConfigProvider>);
 
     expect(result.container).toMatchSnapshot();
   });
 
   test('showCount without value', () => {
-    const result = render(<Input maxLength={10}/>);
+    const result = render(<ConfigProvider theme={{hashed: false}}>
+      <Input maxLength={10}/>
+    </ConfigProvider>);
     expect(result.container).toMatchSnapshot();
   });
 
   test('showCount with value', () => {
-    const result = render(<Input maxLength={10} value="abc"/>);
+    const result = render(<ConfigProvider theme={{hashed: false}}>
+      <Input maxLength={10} value="abc"/>
+    </ConfigProvider>);
     expect(result.container).toMatchSnapshot();
   });
 
