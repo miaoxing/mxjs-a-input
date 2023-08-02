@@ -32,4 +32,8 @@ Input.TextArea = ({maxLength = null, trim = true, ...props}) => {
 
 Input.TextArea.propTypes = Input.propTypes;
 
+Input.Group = BaseInput.Group;
+Input.Password = BaseInput.Password;
+Input.Search = BaseInput.Search;
+
 export default Input;
