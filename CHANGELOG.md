@@ -1,3 +1,18 @@
+# [1.3.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.2.1...v1.3.0) (2023-09-02)
+
+
+### Features
+
+* **a-input:** 导出增加 `Group`, `Password` 和 `Search` ([55728d4](https://github.com/miaoxing/mxjs-a-input/commit/55728d4159955bbff835c2e7ec950cdfcbf46609))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.2.2` to `8.2.3`
+
 ## [1.2.1](https://github.com/miaoxing/mxjs-a-input/compare/v1.2.0...v1.2.1) (2023-07-31)
 
 
