@@ -1,3 +1,13 @@
+## [1.3.1](https://github.com/miaoxing/mxjs-a-input/compare/v1.3.0...v1.3.1) (2023-11-30)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.2.3` to `8.2.4`
+
 # [1.3.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.2.1...v1.3.0) (2023-09-02)
 
 
