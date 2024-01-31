@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.3.3...v1.4.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([7168c12](https://github.com/miaoxing/mxjs-a-input/commit/7168c12d4c4ae4d2258a935117a9bd3a83814fc2))
+
 ## [1.3.3](https://github.com/miaoxing/mxjs-a-input/compare/v1.3.2...v1.3.3) (2024-01-08)
 
 
