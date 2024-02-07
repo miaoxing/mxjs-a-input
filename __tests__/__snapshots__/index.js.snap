@@ -3,7 +3,7 @@
 exports[`Input basic 1`] = `
 <div>
   <input
-    class="ant-input"
+    class="ant-input ant-input-outlined"
     type="text"
     value=""
   />
@@ -13,7 +13,7 @@ exports[`Input basic 1`] = `
 exports[`Input showCount with value 1`] = `
 <div>
   <span
-    class="ant-input-affix-wrapper"
+    class="ant-input-affix-wrapper ant-input-outlined"
   >
     <input
       class="ant-input"
@@ -37,7 +37,7 @@ exports[`Input showCount with value 1`] = `
 exports[`Input showCount without value 1`] = `
 <div>
   <span
-    class="ant-input-affix-wrapper"
+    class="ant-input-affix-wrapper ant-input-outlined"
   >
     <input
       class="ant-input"
