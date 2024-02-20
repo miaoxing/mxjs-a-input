@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.4.0...v1.5.0) (2024-02-20)
+
+
+### Features
+
+* 更新 antd, antd icons 版本 ([f7c0c06](https://github.com/miaoxing/mxjs-a-input/commit/f7c0c06a8902bec59c2f1b3b9cf86c5ab25879c1))
+
 # [1.4.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.3.3...v1.4.0) (2024-01-31)
 
 
