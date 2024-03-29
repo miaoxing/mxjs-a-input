@@ -1,4 +1,3 @@
-import './index.css';
 import {Input as BaseInput} from 'antd';
 import PropTypes from 'prop-types';
 
