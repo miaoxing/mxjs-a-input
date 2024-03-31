@@ -1,3 +1,18 @@
+## [1.5.1](https://github.com/miaoxing/mxjs-a-input/compare/v1.5.0...v1.5.1) (2024-03-31)
+
+
+### Bug Fixes
+
+* **a-input:** 移除失效的 count 样式 ([3cfdb36](https://github.com/miaoxing/mxjs-a-input/commit/3cfdb365a99d133330c67f155cc6d2cd09c57edc))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.0` to `9.1.1`
+
 # [1.5.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.4.0...v1.5.0) (2024-02-20)
 
 
