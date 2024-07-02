@@ -1,7 +1,7 @@
 {
   "name": "@mxjs/a-input",
   "version": "1.5.1",
-  "main": "index.js",
+  "main": "index.jsx",
   "license": "MIT",
   "publishConfig": {
     "access": "public",
