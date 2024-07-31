@@ -1,3 +1,18 @@
+## [1.5.2](https://github.com/miaoxing/mxjs-a-input/compare/v1.5.1...v1.5.2) (2024-07-31)
+
+
+### Bug Fixes
+
+* 更改入口文件，解决 vite "Failed to resolve entry for package" 问题 ([edbeea4](https://github.com/miaoxing/mxjs-a-input/commit/edbeea4f9cfdbc9697263c807176db117aab09a1))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [1.5.1](https://github.com/miaoxing/mxjs-a-input/compare/v1.5.0...v1.5.1) (2024-03-31)
 
 

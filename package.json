@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/a-input",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "main": "index.jsx",
   "license": "MIT",
   "publishConfig": {
@@ -14,7 +14,7 @@
     "antd": "~5.13"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^9.1.1",
+    "@miaoxing/dev": "^9.1.2",
     "@testing-library/react": "^14",
     "react": ">=16.13.1",
     "react-dom": ">=16.13.1",
