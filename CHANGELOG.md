@@ -1,3 +1,18 @@
+# [1.6.0](https://github.com/miaoxing/mxjs-a-input/compare/v1.5.3...v1.6.0) (2024-09-01)
+
+
+### Features
+
+* 更新 `antd` 到 `~5.19` ([8692ffe](https://github.com/miaoxing/mxjs-a-input/commit/8692ffeaf5a0b971fda0973e776c805df46e13cd))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.3` to `9.2.0`
+
 ## [1.5.3](https://github.com/miaoxing/mxjs-a-input/compare/v1.5.2...v1.5.3) (2024-08-03)
 
 
